@@ -1,0 +1,57 @@
+body{
+   
+    background-color: rgb(214, 209, 209);
+    
+    opacity: 0.9;
+    
+    
+}
+ 
+
+
+.size{
+
+    width: 34%;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0.5px 1px 15px rgb(139, 126, 126);
+   
+   
+   
+   
+   
+    
+
+}
+.d1{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+    
+
+   
+}
+.d2{
+    
+ text-align: justify; 
+margin-left: 33%;
+margin-right: 33%;
+   background-color: white;
+   border-radius: 0px 0px 20px 20px;
+   box-shadow: 0.5px 1px 25px rgb(139, 126, 126);
+  
+
+    
+}
+.des{
+
+    color: black ;
+    padding: 2px 25px 25px 25px;
+    
+}
+.all{
+  
+    margin: 0%;
+   
+}
+
